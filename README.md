@@ -57,7 +57,7 @@ For documentation and additional information see [the website](http://yanzhenjie
 ```
 implementation 'com.yanzhenjie:permission:2.0.0-rc12'
 ```
-AndPermission requires at minimum Android 4.0(Api level 14) .
+:heavy_exclamation_mark: AndPermission requires at minimum Android 4.0(Api level 14). And please use androidx library.
 
 ## ProGuard
 If you are using ProGuard you might need to add the following options:
